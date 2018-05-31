@@ -1,6 +1,6 @@
 # e-Journal
 
-This repository is meant to be a boilerplate to create a file system that helps people to complete online courses.
+The [e-journal](https://github.com/elenatorro/e-journal) repository is meant to be a boilerplate to create a file system that helps people to complete online courses. Done by the amazing [Elena Torró](https://twitter.com/eletorro) :)
 
 e-Journal is a system inspired by [Bullet Journal](http://bulletjournal.com/) which can be used with any project file system, but also by using a notebook or blank sheets.
 
