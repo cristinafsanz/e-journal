@@ -1,4 +1,4 @@
-# Lesson 1: Lesson Name
+# Lesson 1: Getting Started
 
 * 🧠 [Concepts](./LESSONS/LESSON_1/CONCEPTS)
   * [What do I need](./LESSONS/LESSON_1/1_WhatDoINeed.md)
